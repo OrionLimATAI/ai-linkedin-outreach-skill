@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI LinkedIn Outreach"
+  short_description: "Build responsible AI outreach workflows"
+  default_prompt: "Use $ai-linkedin-outreach to design a responsible B2B LinkedIn outreach workflow."
